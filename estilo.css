@@ -1,0 +1,16 @@
+//estilo.css
+
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: large;
+  margin: 0;
+}
+
+form {
+  background-color: aliceblue;
+  color: black;
+  margin: auto;
+  padding: 1em;
+  width: 40%;
+}
